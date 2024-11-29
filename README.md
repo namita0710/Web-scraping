@@ -13,7 +13,9 @@ Scalability: Supports scraping multiple websites in parallel.
 **Technologies Used**
 
 Programming Language: Python
+
 Libraries:
+
 BeautifulSoup (for parsing HTML and XML)
 
 Requests (for HTTP requests)
